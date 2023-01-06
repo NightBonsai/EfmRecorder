@@ -31,8 +31,8 @@
 
 ## 项目框架
 - 系统总体框架
-- ![image](https://user-images.githubusercontent.com/107353989/210955237-f60724ec-d7ba-493b-add6-0a7ec42200bc.png)
+![image](https://user-images.githubusercontent.com/107353989/210955237-f60724ec-d7ba-493b-add6-0a7ec42200bc.png)
 - MVC框架
-- ![image](https://user-images.githubusercontent.com/107353989/210955309-2d28ab61-7cd2-4011-819d-659da7765437.png)
+![image](https://user-images.githubusercontent.com/107353989/210955309-2d28ab61-7cd2-4011-819d-659da7765437.png)
 - 数据库设计
-- ![image](https://user-images.githubusercontent.com/107353989/210955361-582ecd62-f9f5-4d4c-9e23-1718f63a5ee3.png)
+![image](https://user-images.githubusercontent.com/107353989/210955361-582ecd62-f9f5-4d4c-9e23-1718f63a5ee3.png)
