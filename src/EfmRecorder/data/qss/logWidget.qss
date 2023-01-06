@@ -1,0 +1,25 @@
+#title
+{
+    font-size:32px;
+    color:white;
+}
+#label
+{
+    font-size:20px;
+    color:white;
+}
+#button
+{
+    border-radius:10px;
+    background-color:white;
+}
+#button:hover
+{
+    color:white;
+    background-color:#333333;
+}
+#button:pressed
+{
+    color:#333333;
+    background-color:white;
+}

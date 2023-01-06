@@ -1,0 +1,31 @@
+#title
+{
+    font-size:32px;
+    color:white;
+}
+#welcome
+{
+    font-size:24px;
+    color:white;
+}
+#button
+{
+    border-radius:10px;
+    background-color:white;
+}
+#button:hover
+{
+    color:white;
+    background-color:#333333;
+}
+#button:pressed
+{
+    color:#333333;
+    background-color:white;
+}
+#showImage
+{
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+}

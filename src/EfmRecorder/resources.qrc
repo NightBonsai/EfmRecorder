@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/Image/welcomeImage/dest.png</file>
+        <file>data/Image/welcomeImage/loading.png</file>
+        <file>data/Image/enforcementRecorder.png</file>
+        <file>data/qss/setWidget.qss</file>
+        <file>data/qss/mainWidget.qss</file>
+        <file>data/Image/mainImage/login.png</file>
+        <file>data/qss/logWidget.qss</file>
+        <file>data/Image/logImage/pwd_invisible.png</file>
+        <file>data/Image/logImage/pwd_visible.png</file>
+        <file>data/qss/imageWidget.qss</file>
+        <file>data/Image/imageImage/return.png</file>
+        <file>data/Image/imageImage/search.png</file>
+        <file>data/Image/videoImage/return.png</file>
+        <file>data/Image/videoImage/search.png</file>
+        <file>data/qss/videoWidget.qss</file>
+        <file>data/qss/playVideoWidget.qss</file>
+        <file>data/Image/playVideoImage/lastVideo.png</file>
+        <file>data/Image/playVideoImage/play.png</file>
+        <file>data/Image/playVideoImage/return.png</file>
+        <file>data/Image/playVideoImage/stop.png</file>
+        <file>data/Image/playVideoImage/nextVideo.png</file>
+        <file>data/Image/playVideoImage/catchImage.png</file>
+        <file>data/qss/transcodeWidget.qss</file>
+        <file>data/Image/transcodeImage/search.png</file>
+        <file>data/Image/transcodeImage/return.png</file>
+        <file>data/qss/dailyWidget.qss</file>
+        <file>data/Image/dailyImage/return.png</file>
+        <file>data/Image/background.png</file>
+        <file>data/Image/background-welcome.png</file>
+    </qresource>
+</RCC>
