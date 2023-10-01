@@ -1,9 +1,6 @@
 # EfmRecorder
 二阶段实战项目-执法记录仪：项目代码**只提供思路**，**仅供参考**
 
-- [项目成品](https://github.com/NightBonsai/EfmRecorder/tree/main/EfmRecorder)
-- [项目源码](https://github.com/NightBonsai/EfmRecorder/tree/main/src)
-
 ## 开发工具
 - Windows/Linux操作系统
 - Qt Creator
